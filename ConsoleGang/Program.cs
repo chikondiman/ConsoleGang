@@ -24,7 +24,8 @@ namespace ConsoleGang
                     Console.WriteLine(i);
             }
             Console.WriteLine("This is FIZZZZZZ");
-                Console.ReadLine();
+            Console.WriteLine("what's your favorite fizz?")
+               fizz = Console.ReadLine();
         }
     }
 }
