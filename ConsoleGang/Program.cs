@@ -23,7 +23,8 @@ namespace ConsoleGang
                 else
                     Console.WriteLine(i);
             }
-            Console.WriteLine("This is FIZZZZZZ")
+            Console.WriteLine("This is FIZZZZZZ");
+                Console.ReadLine();
         }
     }
 }
