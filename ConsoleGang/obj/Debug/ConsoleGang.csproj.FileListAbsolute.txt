@@ -4,3 +4,4 @@ C:\Users\New HP\CODE_KONDI\ConsoleGang\ConsoleGang\bin\Debug\ConsoleGang.pdb
 C:\Users\New HP\CODE_KONDI\ConsoleGang\ConsoleGang\obj\Debug\ConsoleGang.csproj.CoreCompileInputs.cache
 C:\Users\New HP\CODE_KONDI\ConsoleGang\ConsoleGang\obj\Debug\ConsoleGang.exe
 C:\Users\New HP\CODE_KONDI\ConsoleGang\ConsoleGang\obj\Debug\ConsoleGang.pdb
+C:\Users\New HP\CODE_KONDI\ConsoleGang\ConsoleGang\obj\Debug\ConsoleGang.csprojAssemblyReference.cache
