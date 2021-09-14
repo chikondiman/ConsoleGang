@@ -26,6 +26,11 @@ namespace ConsoleGang
             Console.WriteLine("This is FIZZZZZZ");
             Console.WriteLine("what's your favorite fizz?")
                fizz = Console.ReadLine();
+            if(fizz = fizz)
+            {
+                Console.WriteLine("I like your fizz");
+
+            }
         }
     }
 }
